@@ -7,5 +7,5 @@ Using age and gender to predict the type of Music listened to using ML
 
 # Music recommender.joblib
 
-Contains and stores the trained decision tree model in a file
+Contains and stores the trained decision tree model in a binary file
 
